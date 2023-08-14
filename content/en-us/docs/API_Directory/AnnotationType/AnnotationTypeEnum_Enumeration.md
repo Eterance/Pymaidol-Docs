@@ -4,13 +4,11 @@ date: 2023-08-14T23:28:35+08:00
 draft: false
 ---
 
-# AnnotationTypeEnum Enumeration
-
 ## Overview
 
 The `AnnotationTypeEnum` enumeration is the base class for all annotation type enumerations. It has no internal enumeration values and is only used for inheritance.
 
-Module: [pymaidol.AnnotationType](AnnotationType_Module.md)
+Module: [pymaidol.AnnotationType]({{< ref "_index.md" >}})
 
 Inherits from: `enum.Enum`
 

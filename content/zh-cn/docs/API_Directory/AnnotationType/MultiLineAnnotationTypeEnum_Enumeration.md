@@ -4,15 +4,13 @@ date: 2023-08-14T23:28:35+08:00
 draft: false
 ---
 
-# MultiLineAnnotationTypeEnum 枚举
-
 ## 概述
 
 包含了可在模板设计文件中`.pymd`使用的多行注释的类型。
 
-模块：[pymaidol.AnnotationType](AnnotationType模块.md)
+模块：[pymaidol.AnnotationType]({{< ref "_index.md" >}})
 
-继承自：[pymaidol.AnnotationType.AnnotationTypeEnum](AnnotationTypeEnum枚举.md)
+继承自：[pymaidol.AnnotationType.AnnotationTypeEnum]({{< ref "AnnotationTypeEnum_Enumeration.md" >}})
 
 ## 导入
 

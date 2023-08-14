@@ -1,10 +1,7 @@
 ---
 title: Getting Started
-date: 2017-01-05
-description: >
-  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-categories: [Examples]
-tags: [test, sample, docs]
+date: 2023-08-14T23:28:35+08:00
+weight: 1
 ---
 
 **All English docs are translated by Chat-GPT. Feel free to submit a PR to improve the translation.**
@@ -90,5 +87,5 @@ Now (Tue May 23 19:21:19 2023), Say "Hello World" using Pymaidol!
 
 ## See Also
 
-- [Pymaidol Syntax Reference](en-us/Syntax_Reference.md)
-- [Pymaidol API Directory](en-us/Pymaidol_API_Directory.md)
+- [Pymaidol Syntax Reference]({{< ref "Syntax_Reference.md" >}})
+- [Pymaidol API Directory]({{< ref "API_Directory/_index.md" >}})

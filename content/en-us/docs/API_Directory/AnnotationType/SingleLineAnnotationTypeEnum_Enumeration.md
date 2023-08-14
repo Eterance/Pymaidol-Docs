@@ -4,15 +4,13 @@ date: 2023-08-14T23:28:35+08:00
 draft: false
 ---
 
-# SingleLineAnnotationTypeEnum Enumeration
-
 ## Overview
 
 Contains the types of single-line annotations that can be used in template design files `.pymd`.
 
-Module: [pymaidol.AnnotationType](AnnotationType_Module.md)
+Module: [pymaidol.AnnotationType]({{< ref "_index.md" >}})
 
-Inherits from: [pymaidol.AnnotationType.AnnotationTypeEnum](AnnotationTypeEnum_Enumeration.md)
+Inherits from: [pymaidol.AnnotationType.AnnotationTypeEnum]({{< ref "AnnotationTypeEnum_Enumeration.md" >}})
 
 ## Import
 
@@ -35,4 +33,4 @@ C | // | Single-line comment for C, which starts with `//`.
 
 ## See Also
 
-[AnnotationTypeEnum Enumeration](AnnotationTypeEnum_Enumeration.md)
+[AnnotationTypeEnum Enumeration]({{< ref "AnnotationTypeEnum_Enumeration.md" >}})

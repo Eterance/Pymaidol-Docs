@@ -1,7 +1,8 @@
 ---
-title: Pymaidol 语法参考
+title: 语法参考
 date: 2023-08-14T23:28:35+08:00
 draft: false
+weight: 2
 ---
 
 ## Pymaidol 模板文件的创建与结构

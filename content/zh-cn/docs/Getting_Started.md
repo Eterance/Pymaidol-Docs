@@ -1,9 +1,8 @@
 ---
 title: 入门
 date: 2023-08-14T23:28:35+08:00
+weight: 1
 ---
-
-简体中文 | [English](README.en-us.md)
 
 Pymaidol 是一种标记语法，用于将 Python 代码嵌入文本中，使得文本在运行时可动态更改包含的内容。
 
@@ -86,5 +85,5 @@ Now (Tue May 23 19:21:19 2023), Say "Hello World" using Pymaidol!
 
 ## 另请参阅
 
-- [Pymaidol 语法参考](zh-cn/语法参考.md)
-- [Pymaidol API 目录](zh-cn/Pymaidol_API目录.md)
+- [Pymaidol 语法参考]({{< ref "Syntax_Reference.md" >}})
+- [Pymaidol API 目录]({{< ref "API_Directory/_index.md" >}})
