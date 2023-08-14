@@ -1,10 +1,8 @@
 ---
-title: "Pymaidol Syntax Reference"
+title: Pymaidol Syntax Reference
 date: 2023-08-14T23:28:35+08:00
-draft: true
+draft: false
 ---
-
-# Pymaidol Syntax Reference
 
 ## Creating and Structure of Pymaidol Template Files
 

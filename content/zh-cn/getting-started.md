@@ -1,4 +1,7 @@
-# Pymaidol
+---
+title: 入门
+date: 2023-08-14T23:28:35+08:00
+---
 
 简体中文 | [English](README.en-us.md)
 

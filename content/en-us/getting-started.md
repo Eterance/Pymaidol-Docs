@@ -1,6 +1,11 @@
-# Pymaidol
-
-[简体中文](README.md) | English
+---
+title: Getting Started
+date: 2017-01-05
+description: >
+  A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
+categories: [Examples]
+tags: [test, sample, docs]
+---
 
 **All English docs are translated by Chat-GPT. Feel free to submit a PR to improve the translation.**
 

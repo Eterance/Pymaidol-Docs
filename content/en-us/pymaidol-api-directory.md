@@ -1,10 +1,8 @@
 ---
-title: "Pymaidol API Directory"
+title: Pymaidol API Directory
 date: 2023-08-14T23:28:35+08:00
-draft: true
+draft: false
 ---
-
-# Pymaidol API Directory
 
 ## Modules
 

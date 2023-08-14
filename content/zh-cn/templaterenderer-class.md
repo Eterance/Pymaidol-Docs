@@ -1,10 +1,8 @@
 ---
-title: "TemplateRenderer 类"
+title: TemplateRenderer 类
 date: 2023-08-14T23:28:35+08:00
-draft: true
+draft: false
 ---
-
-# TemplateRenderer 类
 
 ## 概述
 
