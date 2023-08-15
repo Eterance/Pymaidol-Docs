@@ -3,7 +3,8 @@ title = 'Pymaidol Docs'
 
 
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
+# 关闭这个才能正确搜索
+defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 [languages]
