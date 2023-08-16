@@ -1,5 +1,7 @@
 /public
 resources/
 node_modules/
-package-lock.json
+# package-lock.json 要一起上传，不然 CI 会出错
+# https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-data
+#package-lock.json
 .hugo_build.lock
